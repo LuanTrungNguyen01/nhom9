@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Food Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/webtintuc
+Data file = C:\xampp\htdocs\webtintuc\wp-content\plugins\candid-advanced-toolset\engage-mag-dummy-data/demo-files/food/food.xml
+Widget file = C:\xampp\htdocs\webtintuc\wp-content\plugins\candid-advanced-toolset\engage-mag-dummy-data/demo-files/food/food.wie
+Customizer file = C:\xampp\htdocs\webtintuc\wp-content\plugins\candid-advanced-toolset\engage-mag-dummy-data/demo-files/food/food.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Engage Mag Social Icons - No Title - Imported
+Engage Mag Recent Post - Recent Posts - Imported
+Tìm kiếm - No Title - Imported
+Chuyên mục - No Title - Imported
+Engage Mag(125*125) Advertisement - Advertisement - Imported
+
+Home Page Widget Area : 
+
+Engage Mag Featured Post - No Title - Imported
+Engage Mag Post Slider - No Title - Imported
+Engage Mag Grid Post - No Title - Imported
+Engage Mag Two Category Column - No Title - Imported
+Engage Mag Thumbnail Post - Thumbnail Posts - 2 Column - Imported
+
+Footer Widget 1 : 
+
+Bài viết mới - Recent Posts - Imported
+
+Footer Widget 2 : 
+
+Chuyên mục - Categories - Imported
+
+Footer Widget 3 : 
+
+Văn bản - Contact Us - Imported
+Engage Mag Social Icons - No Title - Imported
+
+Above Footer(Full Width) : 
+
+Engage Mag Thumbnail Post - 3 Columns - Thumbnail Posts - Imported
+Văn bản - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
